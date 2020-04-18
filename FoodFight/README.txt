@@ -1,0 +1,2 @@
+README.txt
+Press either the key '1' or '2' to start the game and select a difficulty. Use the arrow keys to control the orb's movement. Press the key 'p' to pause and then un-pause the game. Press the space bar at the end of the game to restart. There are no known bugs in my game. 
